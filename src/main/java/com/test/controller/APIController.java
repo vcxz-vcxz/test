@@ -64,6 +64,6 @@ public class APIController {
         return "这是一个测试接口";
     }
 
-    //test8
+    //test6
 
 }
